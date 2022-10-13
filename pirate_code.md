@@ -39,7 +39,7 @@ Note to the First mate: make sure you revise article I of the pirate code above,
 get your fair share of the prize!
 
 Captain      : NAME_HERE
-Quartermaster: NAME_HERE
+Quartermaster: Marta
 First mate   : Janko
 
 
